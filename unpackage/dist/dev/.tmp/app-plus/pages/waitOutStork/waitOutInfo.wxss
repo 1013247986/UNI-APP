@@ -1,0 +1,23 @@
+.main .waitOut {
+  padding: 0 20rpx;
+}
+.main .waitOut .color {
+  color: #0099ff;
+}
+.main .waitOut .content {
+  padding: 20rpx;
+  background-color: #fff;
+  margin-top: 20rpx;
+  border-radius: 10rpx;
+}
+.main .waitOut .content .title {
+  border-bottom: 1rpx solid #e5e5e5;
+  font-size: 30rpx;
+}
+.main .waitOut .content .title ._h3 {
+  font-weight: bold;
+}
+.main .waitOut .content .info ._span {
+  color: #999999;
+}
+

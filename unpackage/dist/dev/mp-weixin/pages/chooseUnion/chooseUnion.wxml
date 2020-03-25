@@ -1,0 +1,1 @@
+<view class="main"><block wx:for="{{app.user.alliances}}" wx:for-item="item" wx:for-index="__i0__"><view class="union animated" hover-stay-time="{{300}}" hover-class="pulse" data-event-opts="{{[['tap',[['choose',['$0'],[[['app.user.alliances','',__i0__,'allianceId']]]]]]]}}" bindtap="__e">{{''+item.allianceName+''}}</view></block></view>

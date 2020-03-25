@@ -1,0 +1,56 @@
+.main .waitOut {
+  padding: 40rpx 20rpx 20rpx 20rpx;
+  background: #fff;
+}
+.main .waitOut .content {
+  background-color: #fff;
+  border-radius: 10rpx;
+  margin-bottom: 20rpx;
+}
+.main .waitOut .content .title {
+  border-bottom: 1rpx solid #e5e5e5;
+  font-size: 30rpx;
+}
+.main .waitOut .content .title ._h3 {
+  font-weight: bold;
+}
+.main .waitOut .content .info .text {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.main .waitOut .content .info .text ._span {
+  width: 180rpx;
+  text-align: right;
+}
+.main .waitOut .content .info .text .color {
+  color: #0099ff;
+}
+.main .waitOut .content .info text {
+  color: #999999;
+}
+.main .numInfo {
+  padding: 20rpx;
+  background: #fff;
+  border-bottom: 1rpx solid #dcdcdc;
+}
+.main .numInfo ._span {
+  color: #999999;
+}
+.main .numInfo .color {
+  color: #0099ff;
+}
+.main .numInfo .flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.main .numInfo .flex .text {
+  width: 50%;
+}
+

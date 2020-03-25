@@ -1,0 +1,11 @@
+.main .union {
+  width: 80%;
+  height: 200rpx;
+  background: #fff;
+  border-radius: 10rpx;
+  margin: 10rpx auto;
+  line-height: 200rpx;
+  text-align: center;
+  font-size: 30rpx;
+}
+

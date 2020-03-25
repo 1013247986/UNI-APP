@@ -1,0 +1,5 @@
+{
+  "navigationBarTitleText": "实时库存查询",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

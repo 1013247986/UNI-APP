@@ -1,0 +1,92 @@
+.mian .contant {
+  margin: 28rpx;
+  border-top: 1rpx solid #e5e5e5;
+  padding: 22rpx;
+  background: #fff;
+  border-radius: 16rpx;
+}
+.mian .contant .cont-title {
+  font-size: 30rpx;
+  font-weight: 500;
+  color: #222222;
+  line-height: 26rpx;
+  border-bottom: 1rpx solid #e5e5e5;
+  padding-bottom: 20rpx;
+  margin-bottom: 20rpx;
+}
+.mian .contant .list-con {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 26rpx;
+  color: #999999;
+  line-height: 26px;
+}
+.mian .contant .list-con .text-con {
+  font-size: 26rpx;
+  font-weight: 400;
+  color: #333333;
+}
+.mian .contant .list-con .text-num {
+  color: #0099ff;
+}
+.mian .contant .list-con .text-num .icon-color {
+  color: #333333;
+}
+.mian .contant .list-con .list-inpu {
+  width: 136rpx;
+  height: 48rpx;
+  border: 1rpx solid #a0a0a0;
+  border-radius: 10rpx;
+  text-align: center;
+}
+.mian .contant .list-dex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  width: 88%;
+}
+.mian .record-title {
+  font-size: 30rpx;
+  font-weight: 500;
+  color: #222222;
+  line-height: 26rpx;
+  margin-left: 48rpx;
+}
+.mian .record-box {
+  margin: 28rpx;
+  padding: 22rpx;
+  background: #fff;
+  border-radius: 16rpx;
+}
+.mian .record-box .record-nav1 .list-con,
+.mian .record-box .record-nav2 .list-con {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 26rpx;
+  color: #999999;
+  line-height: 26px;
+}
+.mian .record-box .record-nav1 .list-con .text-con,
+.mian .record-box .record-nav2 .list-con .text-con {
+  font-size: 26rpx;
+  font-weight: 400;
+  color: #333333;
+}
+.mian .record-box .record-nav1 .list-con .text-num,
+.mian .record-box .record-nav2 .list-con .text-num {
+  color: #0099ff;
+}
+.mian .record-box .record-nav1 .list-con .text-num .icon-color,
+.mian .record-box .record-nav2 .list-con .text-num .icon-color {
+  color: #333333;
+}
+.mian .record-box .record-nav1 {
+  padding-bottom: 30rpx;
+  border-bottom: 1rpx solid #e5e5e5;
+}
+.mian .record-box .record-nav2 {
+  padding-top: 28rpx;
+}
+

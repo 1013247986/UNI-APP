@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "ms-dropdown-item": "/components/ms-dropdown/dropdown-item",
+    "ms-dropdown-menu": "/components/ms-dropdown/dropdown-menu"
+  }
+}

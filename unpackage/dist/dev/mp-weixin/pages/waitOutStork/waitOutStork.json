@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "待出库业务单位",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "select-stork": "/components/selectStork"
+  }
+}

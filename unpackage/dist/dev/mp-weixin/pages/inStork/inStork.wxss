@@ -1,0 +1,44 @@
+.main {
+  background: #eeeeee;
+}
+.main .boxlist .boxOne,
+.main .boxlist .boxOne:first-child {
+  background: #ffffff;
+  border-radius: 16rpx;
+  margin: 24rpx;
+  padding: 22rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.main .boxlist .boxOne .boxOne-left .text,
+.main .boxlist .boxOne:first-child .boxOne-left .text {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  color: #999999;
+  font-size: 26rpx;
+}
+.main .boxlist .boxOne .boxOne-left .text .text-cont,
+.main .boxlist .boxOne:first-child .boxOne-left .text .text-cont {
+  color: #333333;
+}
+.main .boxlist .boxOne .boxOne-left .text .text-num,
+.main .boxlist .boxOne:first-child .boxOne-left .text .text-num {
+  color: #0099ff;
+}
+.main .boxlist .boxOne .boxOne-right,
+.main .boxlist .boxOne:first-child .boxOne-right {
+  color: #999999;
+  font-size: 38rpx !important;
+}
+.main .boxlist .boxOne:first-child {
+  margin-top: 30rpx;
+}
+
